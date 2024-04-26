@@ -1,0 +1,27 @@
+body {
+background-color:#E8F6F3;
+}
+h1{
+color:purple;
+font-size:30px;
+text-align:center;
+font-face:heltica;
+}
+h2 {
+color:navy;
+font-face:courier new;
+}
+img{
+width:390px;
+heigh:150px;
+}
+p{
+color:teal;
+font-face:calibri;
+text-align:center;
+}
+
+b{
+color:blue;
+font-face:calibri;
+}
